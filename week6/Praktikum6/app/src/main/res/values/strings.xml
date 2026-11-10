@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Praktikum 6</string>
+    <string name="title">Nama Negara di Dunia</string>
+    <string name="capital_prompt">Nama Ibu Kota Negara: pilih negara di atas.</string>
+    <string name="capital_result">Negara %1$s beribu kota di %2$s.</string>
+
+    <string-array name="countries">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+        <item>Singapura</item>
+        <item>Australia</item>
+        <item>India</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>Jakarta</item>
+        <item>Kuala Lumpur</item>
+        <item>Bangkok</item>
+        <item>Manila</item>
+        <item>Hanoi</item>
+        <item>Singapura</item>
+        <item>Canberra</item>
+        <item>New Delhi</item>
+        <item>Tokyo</item>
+        <item>Seoul</item>
+    </string-array>
+</resources>

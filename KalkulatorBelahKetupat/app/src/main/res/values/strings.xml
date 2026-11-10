@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kalkulator Belah Ketupat</string>
+    <string name="title">Kalkulator Belah Ketupat</string>
+    <string name="description">Masukkan panjang kedua diagonal. Panjang sisi diperoleh dari setengah panjang masing-masing diagonal.</string>
+    <string name="label_diagonalone">Diagonal pertama (cm)</string>
+    <string name="label_diagonaltwo">Diagonal kedua (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="area_result">Luas:\nL = diagonal pertama × diagonal kedua ÷ 2\nL = %1$s × %2$s ÷ 2\nL = %3$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = 4 × √((d₁ ÷ 2)² + (d₂ ÷ 2)²)\nK = 4 × √((%1$s ÷ 2)² + (%2$s ÷ 2)²)\nK ≈ %3$s cm</string>
+</resources>

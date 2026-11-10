@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum 2</string>
+    <string name="title">Mobile Programming</string>
+    <string name="name_prompt">Tampilkan Nama Anda Disini!</string>
+    <string name="name_result">Nama Saya Dafa al hafiz</string>
+    <string name="show_name">Klik Saya!</string>
+</resources>

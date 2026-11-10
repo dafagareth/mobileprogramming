@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KalkulatorBangunDatar</string>
+    <string name="title">Kalkulator Persegi Panjang</string>
+    <string name="description">Persegi panjang memiliki dua pasang sisi berhadapan yang sama panjang dan empat sudut siku-siku.</string>
+    <string name="length_label">Panjang (cm)</string>
+    <string name="width_label">Lebar (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="area_result">Luas:\nL = panjang × lebar\nL = %1$s × %2$s\nL = %3$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = 2 × (panjang + lebar)\nK = 2 × (%1$s + %2$s)\nK = %3$s cm</string>
+</resources>

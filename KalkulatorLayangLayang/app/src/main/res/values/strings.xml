@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kalkulator Layang-Layang</string>
+    <string name="title">Kalkulator Layang-Layang</string>
+    <string name="description">Ukur diagonal utama dari titik potong ke ujung atas dan ke ujung bawah. Masukkan juga panjang penuh diagonal melintang.</string>
+    <string name="label_upper">Diagonal utama, bagian atas (cm)</string>
+    <string name="label_lower">Diagonal utama, bagian bawah (cm)</string>
+    <string name="label_across">Diagonal melintang (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="area_result">Luas:\nL = diagonal utama × diagonal melintang ÷ 2\nL = (%1$s + %2$s) × %3$s ÷ 2\nL = %4$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = 2 × (sisi atas + sisi bawah)\nPanjang sisi dihitung dari bagian diagonal.\nK ≈ %1$s cm</string>
+</resources>

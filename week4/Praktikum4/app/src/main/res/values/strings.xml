@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktikum4</string>
+    <string name="form_title">UI Widget dan Toast</string>
+    <string name="name_label">Nama</string>
+    <string name="gender_label">Jenis kelamin</string>
+    <string name="gender_male">Pria</string>
+    <string name="gender_female">Wanita</string>
+    <string name="agree_label">Setuju</string>
+    <string name="submit_label">Kirim</string>
+    <string name="error_name">Nama tidak boleh kosong!</string>
+    <string name="error_gender">Pilih jenis kelamin!</string>
+    <string name="error_agreement">Anda harus setuju!</string>
+    <string name="success_message">Nama: %1$s\nGender: %2$s</string>
+</resources>

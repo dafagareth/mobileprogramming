@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator Jajar Genjang</string>
+    <string name="title">Kalkulator Jajar Genjang</string>
+    <string name="description">Masukkan alas, sisi samping, dan tinggi yang tegak lurus terhadap alas.</string>
+    <string name="label_base">Panjang alas (cm)</string>
+    <string name="label_side">Panjang sisi samping (cm)</string>
+    <string name="label_height">Tinggi (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="invalid_shape">Tinggi tidak boleh melebihi panjang sisi samping.</string>
+    <string name="area_result">Luas:\nL = alas × tinggi\nL = %1$s × %2$s\nL = %3$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = 2 × (alas + sisi samping)\nK = 2 × (%1$s + %2$s)\nK = %3$s cm</string>
+</resources>

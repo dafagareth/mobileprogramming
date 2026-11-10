@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorPrimary">@color/text_primary</item>
+        <item name="android:colorPrimaryDark">@color/text_primary</item>
+        <item name="android:colorAccent">@color/control_accent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/form_background</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileProgramming</string>
+    <string name="starter_message">Hello Android dari Neovim!</string>
+</resources>

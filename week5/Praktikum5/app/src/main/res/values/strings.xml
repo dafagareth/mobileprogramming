@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum 5</string>
+    <string name="title">ListView Dengan Custom</string>
+    <string name="student_id">NIM: %1$s</string>
+    <string name="student_name">Nama: %1$s</string>
+    <string name="student_department">Jurusan: %1$s</string>
+</resources>

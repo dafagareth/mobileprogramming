@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator Segitiga</string>
+    <string name="title">Kalkulator Segitiga</string>
+    <string name="description">Masukkan ketiga sisi segitiga. Luas dihitung dengan rumus Heron.</string>
+    <string name="label_sidea">Sisi a (cm)</string>
+    <string name="label_sideb">Sisi b (cm)</string>
+    <string name="label_sidec">Sisi c (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="invalid_shape">Jumlah panjang dua sisi harus lebih besar daripada sisi ketiga.</string>
+    <string name="area_result">Luas:\ns = (a + b + c) ÷ 2\nL = √(s × (s − a) × (s − b) × (s − c))\nL ≈ %1$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = a + b + c\nK = %1$s + %2$s + %3$s\nK = %4$s cm</string>
+</resources>

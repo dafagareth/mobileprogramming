@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum 3</string>
+    <string name="title">Intent dan Activity</string>
+    <string name="next">Lanjut</string>
+    <string name="second_activity_title">Halaman Kedua</string>
+    <string name="second_activity_message">Ini Activity Kedua</string>
+</resources>

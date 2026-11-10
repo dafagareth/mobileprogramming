@@ -1,0 +1,5 @@
+<resources>
+    <color name="form_background">#CCFF00</color>
+    <color name="text_primary">#212121</color>
+    <color name="control_accent">#00695C</color>
+</resources>

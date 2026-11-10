@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalkulator Segi Enam Beraturan</string>
+    <string name="title">Kalkulator Segi Enam Beraturan</string>
+    <string name="description">Masukkan satu sisi segi enam beraturan. Semua sisi dan sudutnya sama.</string>
+    <string name="label_side">Panjang sisi (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="area_result">Luas:\nL = 3 × √3 × s² ÷ 2\nL = 3 × √3 × %1$s² ÷ 2\nL ≈ %2$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = 6 × sisi\nK = 6 × %1$s\nK = %2$s cm</string>
+</resources>

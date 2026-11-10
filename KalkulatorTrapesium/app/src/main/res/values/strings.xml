@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kalkulator Trapesium</string>
+    <string name="title">Kalkulator Trapesium</string>
+    <string name="description">Masukkan dua sisi sejajar yang berbeda panjang dan kedua kaki. Tinggi dihitung dari keempat sisi.</string>
+    <string name="label_top">Sisi sejajar atas (cm)</string>
+    <string name="label_bottom">Sisi sejajar bawah (cm)</string>
+    <string name="label_left">Kaki kiri (cm)</string>
+    <string name="label_right">Kaki kanan (cm)</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="invalid_shape">Sisi sejajar harus berbeda panjang. Selisihnya dan kedua kaki harus dapat membentuk segitiga.</string>
+    <string name="area_result">Luas:\nL = (sisi atas + sisi bawah) × tinggi ÷ 2\nTinggi ≈ %3$s cm\nL ≈ (%1$s + %2$s) × %3$s ÷ 2\nL ≈ %4$s cm²</string>
+    <string name="perimeter_result">Keliling:\nK = sisi atas + sisi bawah + kaki kiri + kaki kanan\nK = %1$s + %2$s + %3$s + %4$s\nK = %5$s cm</string>
+</resources>
